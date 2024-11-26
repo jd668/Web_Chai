@@ -11,5 +11,15 @@ body {
     width: 400px;
     background-color: #c7f8d7;
     padding: 20px;
-    
+    /* box-shadow: 6px 5px 10px 10px rgba(220, 0, 0, 0.774) inset; */
+    box-shadow: 6px 5px 10px 10px rgba(220, 0, 0, 0.774);
+    border-radius: 18px;
+}
+h1 {
+    text-align: center;
+}
+.input-container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
 }
